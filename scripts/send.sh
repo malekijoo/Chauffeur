@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 source scripts/remote_sync.sh
 R_WAIT
